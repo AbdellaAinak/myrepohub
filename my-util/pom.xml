@@ -6,7 +6,7 @@
 
   <groupId>com.ma.ainak.util</groupId>
   <artifactId>my-util</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>my-util</name>
   <!-- FIXME change it to the project's website -->
